@@ -242,6 +242,15 @@
 		"code": "CRC",
 		"name_plural": "Costa Rican colóns"
 	},
+	"CUP": {
+		"symbol": "MN$",
+		"name": "Cuban peso",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "CUP",
+		"name_plural": "Cuban pesos"
+	},
 	"CVE": {
 		"symbol": "CV$",
 		"name": "Cape Verdean Escudo",
