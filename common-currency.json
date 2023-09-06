@@ -1025,6 +1025,15 @@
 		"code": "XAF",
 		"name_plural": "CFA francs BEAC"
 	},
+	"XCD": {
+		"symbol": "EC$",
+		"name": "Eastern Caribbean dollar",
+		"symbol_native": "EC$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "XCD",
+		"name_plural": "Eastern Caribbean dollars"
+	},
 	"XOF": {
 		"symbol": "CFA",
 		"name": "CFA Franc BCEAO",
